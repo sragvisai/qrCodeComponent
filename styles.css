@@ -17,9 +17,9 @@
 
 .qrImage{
     width: 92%;
-    height: 60%;
     margin: auto;
     margin-top: 4%;
+    margin-bottom:4%
 }
 
 .qrImage img{
